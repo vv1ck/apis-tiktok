@@ -1,0 +1,21 @@
+( API ) Report on user
+
+url = 'https://api16-normal-c-alisg.tiktokv.com/aweme/v1/aweme/feedback/?version_code=17.6.1&language=ar&app_name=musical_ly&app_version=17.6.1&vid=A0E47A34-1BAE-4407-AB86-219468E804C5&residence=JO&device_id=7002851779940271622&channel=App%20Store&mcc_mnc=41601&carrier_region=JO&tz_offset=10800&op_region=JO&aid=1233&locale=ar&sys_region=JO&account_region=&screen_width=1125&uoo=1&openudid=62b064ef098f5d1c5817b2bf68f0ce3be9a52dcf&cdid=C3303766-D942-4770-B538-DADCC78137C4&os_api=18&ac=WIFI&os_version=14.6&app_language=ar&content_language=&tz_name=Asia/Amman&current_region=JO&device_platform=iphone&build_number=176111&iid=7090067468483643138&device_type=iPhone11,2&idfa=00000000-0000-0000-0000-000000000000&reporter_id=6858802024084784129&reason=3024&uri=&report_type=user&enter_from=&object_id='+target_id+'&request_tag_from=h5&report_desc=helpful&owner_id='+target_id
+
+headers={
+	Host: api16-normal-c-alisg.tiktokv.com
+	Connection: keep-alive
+	sdk-version: 2
+	passport-sdk-version: 5.12.1
+	x-Tt-Token: 01e7331d3b2acff63235e08ce65a056ffe00f5e3ca7fcea56e4439274cbdb58a56d0ea37f92f2923cdc0814764e4d46983264d873707430d26340660a85e4b4ec1439397f36afd207addd1b44a32ff3723070b8e6295ebd46c7886703ef18abc44e0b-1.0.1
+	User-Agent: TikTok 17.6.1 rv:176111 (iPhone; iOS 14.6; ar_JO@numbers=latn) Cronet
+	x-tt-store-idc: alisg
+	x-tt-store-region: jo
+	X-SS-DP: 1233
+	x-tt-trace-id: 00-5a75f57410612f2097560d46060b04d1-5a75f57410612f20-01
+	Accept-Encoding: gzip, deflate, br
+	Cookie: 'sessionid:'+sessionid,
+	X-Khronos: 1650785121
+	X-Gorgon: 8402408660004c06eadd0143f42058e4d04984020125fdb0d7d9}
+
+request >> get
