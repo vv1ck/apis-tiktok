@@ -1,0 +1,20 @@
+( API ) get follower list
+
+url = 'https://api16-normal-c-alisg.tiktokv.com/aweme/v1/user/follower/list/?version_code=17.7.0&language=ar&app_name=musical_ly&app_version=17.7.0&vid=A0E47A34-1BAE-4407-AB86-219468E804C5&carrier_region=JO&device_id=7002851779940271622&channel=App%20Store&mcc_mnc=41601&tz_offset=10800&residence=JO&op_region=JO&locale=ar&aid=1233&sys_region=JO&account_region=&screen_width=1125&uoo=1&openudid=62b064ef098f5d1c5817b2bf68f0ce3be9a52dcf&cdid=C3303766-D942-4770-B538-DADCC78137C4&os_api=18&ac=WIFI&os_version=14.6&app_language=ar&content_language=&tz_name=Asia/Amman&current_region=JO&build_number=177015&device_platform=iphone&iid=7090051165099378438&device_type=iPhone11,2&idfa=00000000-0000-0000-0000-000000000000&offset=0&sec_user_id=MS4wLjABAAAALLaLWB0VKcdXITRkX9VsM3GcuSOZBj9vqLvxkMzYgPRfX3ruvCGJ_cu6zbjjuG6R&address_book_access=0&source_type=1&count=20&user_id='+UserID+'&max_time=0'
+
+headers{
+Host: api16-normal-c-alisg.tiktokv.com
+Connection: keep-alive
+x-Tt-Token: 01e7331d3b2acff63235e08ce65a056ffe00f5e3ca7fcea56e4439274cbdb58a56d0ea37f92f2923cdc0814764e4d46983264d873707430d26340660a85e4b4ec1439397f36afd207addd1b44a32ff3723070b8e6295ebd46c7886703ef18abc44e0b-1.0.1
+sdk-version: 1
+User-Agent: TikTok 17.7.0 rv:177015 (iPhone; iOS 14.6; ar_JO@numbers=latn) Cronet
+x-tt-store-idc: alisg
+x-tt-store-region: jo
+X-SS-DP: 1233
+x-tt-trace-id: 00-5a3b98be10612f2097560d46061c04d1-5a3b98be10612f20-01
+Accept-Encoding: gzip, deflate
+Cookie: 'sessionid'+sessionid,
+X-Khronos: 1650781296
+X-Gorgon: 8402404c6000b559083573062c416445bb7085c30d1dbba9183f}
+
+request >> get
