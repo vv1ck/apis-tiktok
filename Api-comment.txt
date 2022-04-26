@@ -11,7 +11,7 @@ headers={
 'x-Tt-Token': '01e7331d3b2acff63235e08ce65a056ffe00f5e3ca7fcea56e4439274cbdb58a56d0ea37f92f2923cdc0814764e4d46983264d873707430d26340660a85e4b4ec1439397f36afd207addd1b44a32ff3723070b8e6295ebd46c7886703ef18abc44e0b-1.0.1',
 'Content-Type': 'application/x-www-form-urlencoded',
 'User-Agent': 'TikTok 17.7.0 rv:177015 (iPhone; iOS 14.6; ar_JO@numbers=latn) Cronet',
-'X-SS-STUB': 'C4233840194A244D60273DA4A5BA379D',
+'X-SS-STUB': sessionid,
 'x-tt-store-idc': 'alisg',
 'x-tt-store-region': 'jo',
 'X-SS-DP': '1233',
